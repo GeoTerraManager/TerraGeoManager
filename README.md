@@ -1,7 +1,7 @@
 <span id="topo">
 <div align="center">
     
-![banner](img/terra.png)
+![banner](img/banner.png)
 
 </div>
     
@@ -32,8 +32,8 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 04/04/2024 | 🚀 Iniciado      |  [ver relatório](https://github.com) |
-| 02 | -- | --     | [ver relatório](https://github.com) | 
-| 03 | -- | --    |  [ver relatório](https://github.com) |
+| 02 | -- | 🚧 Não iniciado    | [ver relatório](https://github.com) | 
+| 03 | -- | 🚧 Não iniciado  |  [ver relatório](https://github.com) |
 
 
 
@@ -45,35 +45,13 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 ## 🎯 Backlogs, Épicos & User Stories
 
 ###  Requisitos
-![banner](https://github.com/projetoPDali/projetoPDali/blob/main/img/requisitos.png) 
+![banner](img/notFound.png)
 
 ###  Epic, User Store
-![banner](https://github.com/projetoPDali/projetoPDali/blob/main/img/user%20store.jpg) 
+![banner](img/notFound.png) 
 
 ###  Backlogs
-![banner](https://github.com/projetoPDali/projetoPDali/blob/main/img/backlog.png) 
-
-<span id="evolução">
-
-
-## 📅 Evolução do projeto:
-
-|    Sprint     | Entrega BackEnd                                  | Entrega FrontEnd                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| 01  | <a href="https://github.com/projetoPDali/api ">  Repositorio Back </a> |  <a href="https://github.com/projetoPDali/front ">  Repositorio Front </a>   |
-| 02  |🚧 Não iniciado |    🚧 Não iniciado  |
-| 03  |🚧 Não iniciado |    🚧 Não iniciado  | 
-
-
-##  Sprint 01:
-
-
-Começamos o projeto com a modelagem do banco de dados, embora esteja sujeita a alterações ao longo do projeto, essa modelagem já representa uma aproximação significativa do que será implementado no produto final.
-
-![banner](https://github.com/projetoPDali/projetoPDali/blob/main/img/modelagem01.png) 
-
-
-
+![banner](img/notFound.png)
 
 
 → [Voltar ao topo](#topo)
