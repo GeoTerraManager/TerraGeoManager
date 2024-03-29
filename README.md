@@ -31,9 +31,9 @@ de mapeamento
 Cada entrega foi realizada a partir da criação de uma branch neste repositório com um relatório completo de tudo o que foi desenvolvido naquela sprint. Observe a relação a seguir:
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 04/04/2024 | 🚀 Iniciado      |  [ver relatório](https://github.com) |
-| 02 | -- | 🚧 Não iniciado    | [ver relatório](https://github.com) | 
-| 03 | -- | 🚧 Não iniciado  |  [ver relatório](https://github.com) |
+| 01 | 04/04/2024 | 🚀 Iniciado      |  [ver relatório](https://github.com/TerraGeoManager/TerraGeoManager/tree/Sprint01?tab=readme-ov-file) |
+| 02 | -- | 🚧 Não iniciado    | [ver relatório]() | 
+| 03 | -- | 🚧 Não iniciado  |  [ver relatório]() |
 
 
 
