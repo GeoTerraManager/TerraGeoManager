@@ -45,13 +45,13 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 ## 🎯 Backlogs, Épicos & User Stories
 
 ###  Requisitos
-![banner](img/notFound.png)
+![banner](https://github.com/TerraGeoManager/TerraGeoManager/blob/main/img/RS/requisitos.png)
 
 ###  Epic, User Store
-![banner](img/notFound.png) 
+![banner](https://github.com/TerraGeoManager/TerraGeoManager/blob/main/img/RS/UserStories.png) 
 
-###  Backlogs
-![banner](img/notFound.png)
+###  Planejamento Das Sprints
+![banner](https://github.com/TerraGeoManager/TerraGeoManager/blob/main/img/RS/Sprints.png)
 
 
 → [Voltar ao topo](#topo)
