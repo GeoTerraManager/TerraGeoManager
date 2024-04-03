@@ -14,10 +14,9 @@
     
 ## :dart: Objetivos da Sprint
 - Inserir, editar e deletar usuario (Back-end)
-- Inserir e deletar quadricula (Back-end) 
-- Pesquisa de usuario e de quadricula por nome
+- Pesquisa de usuario  por nome
 - Criar Tela de Login (Front-end)
-- Criar Data table (Front end)
+
 
 
 <span id="Resumo do trabalho da equipe">
@@ -49,9 +48,9 @@
         
 ## :rocket: Entregas
 ```
-https://youtu.be/iIAjjitAGOg
+https://www.youtube.com/watch?v=CceGDbbs6K8
 ```
-<a href=""><strong>Assista o video da sprint review clicando aqui </strong></a> 
+<a href="https://www.youtube.com/watch?v=CceGDbbs6K8"><strong>Assista o video da sprint review clicando aqui </strong></a> 
    
 
 → [Voltar ao topo](#topo)    
