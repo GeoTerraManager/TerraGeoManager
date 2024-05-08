@@ -1,6 +1,6 @@
 <span id="topo">
 
-<h1 align="center">Sprint 1: 11/03/2024 a 03/04/2024</h1>
+<h1 align="center">Sprint 2: 05/04/2024 a 08/05/2024</h1>
 
 <p align="center">
     <a href="#objetivos">Objetivos da sprint</a> &nbsp |&nbsp &nbsp
@@ -13,10 +13,9 @@
 <span id="objetivos">
     
 ## :dart: Objetivos da Sprint
-- Inserir, editar e deletar usuario (Back-end)
-- Pesquisa de usuario  por nome
-- Criar Tela de Login (Front-end)
-
+- Integração back-end com front-end
+- Refatoração do Banco de dDdos
+- Criação de estatisticas
 
 
 <span id="Resumo do trabalho da equipe">
@@ -26,11 +25,11 @@
 
 - Empregamos o Kanban como uma ferramenta de gestão de tarefas.
 
-<img src="https://github.com/TerraGeoManager/TerraGeoManager/blob/main/img/kanban.jpg" /> 
+<img src="https://github.com/TerraGeoManager/TerraGeoManager/blob/main/img/kanbanS2.png" /> 
 
 - Nos cartões do Kanban, são apresentadas informações essenciais para otimizar a eficiência do processo de trabalho. Essas informações incluem o nome do responsável pela tarefa, uma descrição detalhada da atividade, sua definição de pronto (DoD - Definition of Done) e critérios de aceitação (DoR - Definition of Ready), além de possíveis comentários do Product Owner após a avaliação da tarefa.
 
-<img src="https://github.com/TerraGeoManager/TerraGeoManager/blob/main/img/card.jpg" /> 
+<img src="https://github.com/TerraGeoManager/TerraGeoManager/blob/main/img/RS/cardS2.png" /> 
 
 
 -Também empregamos o gráfico de burndown como uma ferramenta de gestão temporal para nossas entregas. Por meio disso, obtemos uma perspectiva abrangente do projeto, permitindo-nos identificar possíveis pontos de estrangulamento e corrigi-los antes que possam resultar em erros mais significativos.
