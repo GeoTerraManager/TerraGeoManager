@@ -32,7 +32,7 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 04/04/2024 | ✔️ Concluída      |  [ver relatório](https://github.com/TerraGeoManager/TerraGeoManager/tree/Sprint01?tab=readme-ov-file) |
-| 02 | 08/05/2024 | 🚀 Iniciado    | [ver relatório]() | 
+| 02 | 08/05/2024 | 🚀 Iniciado    | [ver relatório](https://github.com/TerraGeoManager/TerraGeoManager/tree/Sprint-02) | 
 | 03 | -- | 🚧 Não iniciado  |  [ver relatório]() |
 
 
@@ -88,8 +88,9 @@ As seguintes ferramentas, linguagens, bibliotecas e tecnologias foram usadas na 
 |  Scrum Master   | Beatriz Roberto Montanini  |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/beatriz-montanini-b69b451b9/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/BiaMontanini)            |
 |  Product Owner  | Flavio Eduardo Linguanotto |      [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/flavio-linguanotto-b587361a4/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/linguanotto)      |
 | Dev Team |  Igor Vinicius Santos Fonseca  |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://github.com/fonsecaigor) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/fonsecaigor)| 
-| Dev Team |  Pedro Augusto Nogueira Silva  |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pedroaugustonogueira) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/pedroansdev)| 
+| Dev Team | Rafael Estevam De Siqueira |  [![Linkedin Badge]() [![GitHub Badge]()| 
 | Dev Team |  Franciele Chesere  |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/franciele-chesere-605974274/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/ChesereF)|
 | Dev Team |  Otavio Abreu  |  [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/o-abreu/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/otavioabreu27)|
+| Dev Team |  Nicolas Antunes Lemos |  [![Linkedin Badge]() [![GitHub Badge]()|
     
 → [Voltar ao topo](#topo)
