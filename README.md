@@ -51,8 +51,15 @@
 https://www.youtube.com/watch?v=CceGDbbs6K8
 ```
 <a href="https://www.youtube.com/watch?v=CceGDbbs6K8"><strong>Assista o video da sprint review clicando aqui </strong></a> 
-   
 
+- BackEnd
+```
+https://github.com/TerraGeoManager/backend
+```
+- FrontEnd
+```
+https://github.com/TerraGeoManager/frontend
+```
 → [Voltar ao topo](#topo)    
     
 <span id="documentação">
