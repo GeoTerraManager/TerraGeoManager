@@ -35,6 +35,11 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 | 02 | 08/05/2024 | 🚀 Iniciado    | [ver relatório](https://github.com/TerraGeoManager/TerraGeoManager/tree/Sprint-02) | 
 | 03 | -- | 🚧 Não iniciado  |  [ver relatório]() |
 
+<p>Repositorios do Projeto: <p/>
+
+| [FrontEnd](https://github.com/TerraGeoManager/frontend)  | [BackEnd](https://github.com/TerraGeoManager/backend)  |
+|---------------------|------|
+
 
 
 
