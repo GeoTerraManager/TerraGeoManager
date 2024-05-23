@@ -32,8 +32,8 @@ Cada entrega foi realizada a partir da criação de uma branch neste repositóri
 | Sprint | Previsão de entrega | Status           | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 04/04/2024 | ✔️ Concluída      |  [ver relatório](https://github.com/TerraGeoManager/TerraGeoManager/tree/Sprint01?tab=readme-ov-file) |
-| 02 | 08/05/2024 | 🚀 Iniciado    | [ver relatório](https://github.com/TerraGeoManager/TerraGeoManager/tree/Sprint-02) | 
-| 03 | -- | 🚧 Não iniciado  |  [ver relatório]() |
+| 02 | 08/05/2024 | ✔️ Concluída    | [ver relatório](https://github.com/TerraGeoManager/TerraGeoManager/tree/Sprint-02) | 
+| 03 | 12/06/2024 | 🚀 Iniciado  |  [ver relatório]() |
 
 <p>Repositorios do Projeto: <p/>
 
