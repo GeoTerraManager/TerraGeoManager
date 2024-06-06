@@ -13,9 +13,9 @@
 <span id="objetivos">
     
 ## :dart: Objetivos da Sprint
-- I
-- P
-- C
+- Finalizar estastiticas
+- Exportar PDF
+- Inegração front-end e Back-end
 
 
 
